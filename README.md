@@ -1,9 +1,6 @@
-# docker-apache-pig
-Docker container for Apache Pig
-
 
 # Hadoop & Pig
-Apache Pig and Hadoop setup.  Perfect for trying some Pig commands (Pig 0.14.0 with hadoop 2.5.2).
+Apache Pig and Hadoop docker image.  Perfect for trying some Pig commands (Pig 0.14.0 with hadoop 2.5.2).
 
 Based on [ipedrazas/hadoop-pig](https://hub.docker.com/r/ipedrazas/hadoop-pig/), fixes ```PATH``` and history server issues.
 
